@@ -62,7 +62,7 @@ Create detailed charts that…
 
 
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -99,9 +99,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
-<img width="1242" height="957" alt="Screenshot 2026-11-03 152417" src="https://github.com/user-attachments/assets/7e569f8d-845a-4952-a81d-69c1cb5aefb1" />
-
-
+<img width="960" height="966" alt="Screenshot 2026-11-20 094802" src="https://github.com/user-attachments/assets/c58776d7-f992-46f9-b97a-b1847bd491a6" />
 
 
 
