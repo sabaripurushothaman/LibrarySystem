@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040352
+# Name:P.S.SABARI
+# Date:20.11.26
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1257" height="993" alt="Screenshot 2026-10-13 193705" src="https://github.com/user-attachments/assets/87cffda6-d169-4a82-a6ba-e322fedae8ea" />
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1203" height="947" alt="Screenshot 2026-10-26 111102" src="https://github.com/user-attachments/assets/d445ae3e-2609-4dcc-80d4-910f112ab84e" />
 
 
 
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1182" height="937" alt="Screenshot 2026-10-30 132427" src="https://github.com/user-attachments/assets/e1f86a4e-7052-4a27-bbb2-fde35208f9b8" />
 
 
 # PACKAGE DIAGRAM:
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1242" height="950" alt="Screenshot 2026-11-03 135048" src="https://github.com/user-attachments/assets/6504d7c7-3bec-41c0-928d-765ebf0f3b90" />
 
 
 
@@ -95,6 +99,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="1242" height="957" alt="Screenshot 2026-11-03 152417" src="https://github.com/user-attachments/assets/7e569f8d-845a-4952-a81d-69c1cb5aefb1" />
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1242" height="957" alt="Screenshot 2026-11-03 152417" src="https://github.com/user-attachments/assets/ab10fe0e-f5bb-49ff-a721-ed897fcde630" />
 
 
 
